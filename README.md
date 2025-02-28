@@ -16,25 +16,25 @@ ARROW is an **Augmented Reality Indoor Navigation** system designed to help user
 
 ## 📸 Screenshots
 ### 1️⃣ Home Screen
-![Home Screen](images/Picture1)
+![Home Screen](images/Picture1.png)
 
 ### 2️⃣ Navigation Display
-![Display](images/Picture2)
+![Display](images/Picture2.jpg)
 
 ### 3️⃣ Instructions Page
-![Instructions](images/Picture7)
+![Instructions](images/Picture7.png)
 
 ### 4️⃣ Floor Selection
-![Floor Selection](images/Picture5)
+![Floor Selection](images/Picture5.jpg)
 
 ### 5️⃣ Destination Selection
-![Destination Select](images/Picture4)
+![Destination Select](images/Picture4.jpg)
 
 ### 6️⃣ QR Code Scan
-![QR Scan](images/Picture3)
+![QR Scan](images/Picture3.jpg)
 
 ### 7️⃣ Destination Marker in AR
-![Destination Marker](images/Picture6)
+![Destination Marker](images/Picture6.jpg)
 
 ## 📂 Repository Structure
 ```

@@ -16,25 +16,25 @@ ARROW is an **Augmented Reality Indoor Navigation** system designed to help user
 
 ## 📸 Screenshots
 ### 1️⃣ Home Screen
-![Home Screen](https://drive.google.com/uc?id=1kaXNrjxfDvw3XvdujbBrMWryIl1HYQcf)
+![Home Screen](images/Picture1)
 
 ### 2️⃣ Navigation Display
-![Display](https://drive.google.com/uc?id=13hbJKfwxiJWwix7uh-y9TN9gjKRwDmAK)
+![Display](images/Picture2)
 
 ### 3️⃣ Instructions Page
-![Instructions](https://drive.google.com/uc?id=13hsaRX7ZoQXxJb7d6hCY0nUnn3XoUZEl)
+![Instructions](images/Picture7)
 
 ### 4️⃣ Floor Selection
-![Floor Selection](https://drive.google.com/uc?id=1557ruZCQqUMJdtHmejsvbc2YkKe86RJL)
+![Floor Selection](images/Picture5)
 
 ### 5️⃣ Destination Selection
-![Destination Select](https://drive.google.com/uc?id=1kwO-3hItmCDGWumlxcRzPIua9j8FS0Gm)
+![Destination Select](images/Picture4)
 
 ### 6️⃣ QR Code Scan
-![QR Scan](https://drive.google.com/uc?id=1F3sF1MZBF_XzsKGFQSCsWza80wTGKW9c)
+![QR Scan](images/Picture3)
 
 ### 7️⃣ Destination Marker in AR
-![Destination Marker](https://drive.google.com/uc?id=1ogs3GC0N1Ne47PJ7QGsdSOYrT5eMjIAT)
+![Destination Marker](images/Picture6)
 
 ## 📂 Repository Structure
 ```
